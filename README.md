@@ -2,6 +2,8 @@
 
 A deep learning project that predicts monthly house rent in Indian cities using an Artificial Neural Network (PyTorch). The application includes an interactive Streamlit dashboard with map-based location selection.
 
+webpage:-https://house-rent-predictiongit-yccdq9mwuickqoru3cbgne.streamlit.app/
+
 ---
 
 ## Features
